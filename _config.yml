@@ -1,6 +1,6 @@
 # Site settings
-title: Rob Hinds
-twitter_username: rob_hinds
+title: Suvarna Kadam
+twitter_username: suvarna
 name: Rob Hinds
 
 # Build settings
@@ -10,45 +10,39 @@ markdown: kramdown
 #Links that will appear in the navbar
 primarylinks:
  - title: Blog
-   url: http://automateddeveloper.blogspot.com/
+   url: https://deep-experiments.blogspot.com/
  - title: GitHub
-   url: https://github.com/robhinds
+   url: https://github.com/suvarnak
  - title: StackOverflow
-   url: http://stackoverflow.com/users/258813/rhinds
- - title: DZone
-   url: https://dzone.com/users/899489/rhinds.html
+   url: https://stackoverflow.com/users/2769865/suvarna-kadam
+ - title: Youtube
+   url: 
  - title: LinkedIn
-   url: https://www.linkedin.com/pub/rob-hinds/21/361/3b1
+   url:https://www.linkedin.com/in/suvarna-kadam-a3191613/
 
 #Any buzzword skills you want to include
 skills:
- - Scala
- - Akka-http
- - Microservices
- - Slick
- - Product management
- - API design
- - Groovy
- - Spring MVC/Boot/Social
- - Gradle
+ - Deep Neural Networks
+ - Machine Learning
+ - Deep Learning Frameworks (TensorFlow, Keras, PyTorch)
+ - Python
+ - JavaScript
  - Java
- - JPA
- - SQL
- - REST
- - Technical Architecture
- - Machine learning
-
+ - Goole Colab
+ - AWS
+ - Google App.js
+ 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
-blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
+#blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
 
 #Work experience is required
 roles:
- - title: CTO
-   start: 2017
+ - title: Machine Learning Engineer
+   start: 2020
    end: Ongoing
-   employer: Basement Crowd
-   description: Legaltech startup producing a range of innovative legal products. Products include <a href="https://www.juriosity.com" taget="_blank">Juriosity</a>, <a href="https://www.fromcounsel.com" taget="_blank">FromCounsel</a>, <a href="https://www.sparqa.com" taget="_blank">Sparqa</a>.
- - title: Senior Engineer
+   employer: 
+   description: 
+ - title: PhD Student
    start: 2016
    end: 2017
    employer: Emerald Street Ventures
