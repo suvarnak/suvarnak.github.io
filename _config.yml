@@ -60,23 +60,10 @@ roles:
 
 #Education is required
 education:
- - level: Bachelor of Science (B.Sc.)
-   date: 2003
-   subject: Artificial Intelligence and Computer Science
-   school: University of Birmingham
-
-#This section is optional (as is the image link below)
-coursera:
-   profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
-   courses:
-    - title: Functional Programming Principles in Scala
-      link: https://www.coursera.org/course/progfun
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
-      date: September 16, 2013
-    - title: Algorithms Design and Analysis, Part 1
-      link: https://www.coursera.org/specializations/algorithms
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
-      date: April 28, 2014
+ - level: Bachelor of Engineering (B.Engg.)
+   date: 1997
+   subject: Computer Science
+   school: University of Pune
 
 
 #List of interesting Github repo/projects to include - optional
@@ -93,7 +80,3 @@ stackoverflow:
 intro: |
 I am a Machine Learning Engineer, currently pursuing PhD in few shot learning from university of Pune. I have done few PoC in computer vision and deep learning(object detection) as contracting work. You may find few demo videos at https://drive.google.com/open?id=1IP6VqfMrGEzwmhPgca0WNvCV2LkTmrQI. I am good at reading research papers and replicating and customizing the SOTA research work. I have some experience of running ML experiments on AWS, Google Colab and MS Azure.
 
-#An additional info freetext section is optional at the bottom of the page - can be text or HTML
-additionalinfo: |
-   <strong>Tensorflow</strong>: My current role uses Tensorflow as the primary ML framework and have been building applications in ML and Computer Vision for the last three years. I am familiar with a range of OpenCV Functionalities.
-   
